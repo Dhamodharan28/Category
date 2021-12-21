@@ -1,0 +1,47 @@
+
+.container {
+    /* min-width: auto; */
+    /* margin: 10px auto 0; */
+    /* padding: 0px; */
+    width: 1500px;
+    display: table;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.row {
+    margin: 2px 0;
+}
+
+.column {
+    display: table-cell;
+}
+
+.categoriespart {
+    height: 100vh;
+    background-color: #fff;
+}
+.table {
+    width: 1000px;
+    min-height: 100vh;
+}
+
+
+
+.part_container {
+    min-height: 100vh;
+    /* margin-top: -10px; */
+    background-color: #fff;
+}
+
+.border {
+    border: 8px solid rgb(221, 221, 221);
+}
+
+.part_search {
+    margin-left: 570px;
+}
+
+.category_search {
+    width: 430px;
+}
